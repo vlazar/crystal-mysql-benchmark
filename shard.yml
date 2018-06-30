@@ -1,0 +1,12 @@
+name: crystal-mysql-benchmark
+version: 0.1.0
+
+authors:
+  - Vladislav Zarakovsky <vlad.zar@gmail.com>
+
+dependencies:
+  mysql:
+    github: crystal-lang/crystal-mysql
+    version: 0.4.0
+
+license: MIT
