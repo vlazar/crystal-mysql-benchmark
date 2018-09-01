@@ -1,5 +1,9 @@
 # crystal-mysql-benchmark
 
+Demonstration for [Performance regression in Crystal 0.25.0](https://github.com/crystal-lang/crystal/issues/6303)
+
+This has been fixed in [#6304](https://github.com/crystal-lang/crystal/pull/6304) and released in [Crystal 0.26.0](https://github.com/crystal-lang/crystal/blob/master/CHANGELOG.md#0260-2018-08-09)
+
 ## Environment
 
 * macOS 10.13.5
